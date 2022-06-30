@@ -13,13 +13,13 @@
 
 - 💬 Ask me about **Java, HTML, CSS, JavaScript, React Js**
 
-- 🤔 Exploring latest technologies and developing useful web apps
+- 🤔 Exploring **Latest technologies and developing useful web apps**
 
 - 📫 How to reach me **https://www.linkedin.com/in/sk-elaf-ahmed-bb85b0210/**
 
-- 🎓 Studying Electronics & Communication Engineering.
+- 🎓 Studying **Electronics & Communication Engineering**
 
-- ⚡ Fun fact **I am studying engineering but I have more interest in Stock Market and CryptoCurrency**
+- ⚡ Fun fact **I am studying engineering but I have more interest in Finance, Stock Market and CryptoCurrency**
 
 
 
