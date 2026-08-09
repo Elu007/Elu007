@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently learning **React Js, Node.Js, MongoDB, DSA**
 
-- 📝 I regularly write articles on [https://investingwithelu.blogspot.com/ https://eluprogramming.blogspot.com/]
-
 - 💬 Ask me about **Java, HTML, CSS, JavaScript, React Js**
 
 - 🤔 Exploring **Latest technologies and developing useful web apps**
